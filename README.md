@@ -15,3 +15,7 @@ Image Widget
 Scaffold Widget
 
 ![Screenshot scaffold_widget](images/scaffoldwidget.png)
+
+Dialog Widget
+
+![Screenshot dialog_widget](images/dialogwidget.png)
