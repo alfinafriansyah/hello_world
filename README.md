@@ -11,3 +11,7 @@ Text Widget
 Image Widget
 
 ![Screenshot image_widget](images/imagewidget.png)
+
+Scaffold Widget
+
+![Screenshot scaffold_widget](images/scaffoldwidget.png)
